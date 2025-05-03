@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Wyne 
+# Hi, I'm Muhammad Ahmed
 
 ## 🚀 About Me
 I’m a **Machine Learning Enthusiast** with a strong passion for leveraging **data**, **AI**, and **cybersecurity** to solve real-world problems. I'm dedicated to exploring innovative solutions across **Machine Learning**, **Computer Vision**, **Healthcare Tech**, and **Cybersecurity**. I thrive on experimenting with new techniques, enhancing my skills, and making a tangible impact in the field.
