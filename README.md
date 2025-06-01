@@ -1,10 +1,10 @@
-# Hi, I'm Muhammad Ahmed
+# Hey, I'm Muhammad Ahmed
 
 ## 🚀 About Me
-I’m a **Machine Learning Enthusiast** with a strong passion for leveraging **data**, **AI**, and **cybersecurity** to solve real-world problems. I'm dedicated to exploring innovative solutions across **Machine Learning**, **Computer Vision**, **Healthcare Tech**, and **Cybersecurity**. I thrive on experimenting with new techniques, enhancing my skills, and making a tangible impact in the field.
+I’m a **Machine Learning Enthusiast** with a strong passion for leveraging **data**, **AI**, and **cybersecurity** to solve real-world problems. I'm dedicated to exploring innovative solutions across **Machine Learning**, **Agentic AI**, **Computer Vision**, **Healthcare Tech**, and **Cybersecurity**. I thrive on experimenting with new techniques, enhancing my skills, and making a tangible impact in the field.
 
-- 🌱 Currently focused on mastering **Advanced AI Techniques** and diving deeper into **Machine Learning**.
-- 💻 Passionate about building intelligent systems that drive **real-world impact**, particularly in **AI-driven healthcare**.
+- 🌱 Currently focused on mastering **Advanced AI Techniques** and diving deeper into **Machine Learning** and **Agentic AI**.
+- 💻 Passionate about building intelligent systems that drive **real-world impact**, particularly in **AI-driven solutions**.
 - 🤖 Always exploring new **ML algorithms**, **data analysis** methods, and **cybersecurity innovations**.
 
 ---
